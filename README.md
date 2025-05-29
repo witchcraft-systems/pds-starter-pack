@@ -6,7 +6,7 @@
 - [Uptime status page](https://stats.uptimerobot.com/7Xeatuzb2h)
 - [Witchcraft Systems main account](https://deer.social/profile/did:web:witchcraft.systems)
 - [Infrastructure issues account](https://deer.social/profile/did:plc:ebwglxznjtpxr4ybttbpbwjw) (hosted on a Bluesky PBC PDS, used if our infrastructure is down)
-- [PDS announcements account](https://pds.witchcraft.systems/profile/) (used for stuff that's only relevant to those who use our PDS)
+- [PDS announcements account](https://deer.social/profile/announcements.pds.witchcraft.systems) (used for stuff that's only relevant to those who use our PDS)
 - [This repository](https://git.witchcraft.systems/scientific-witchery/pds-starter-pack) and the [github mirror](https://github.com/witchcraft-systems/pds-starter-pack)
 - [PDS nightly backups](https://link.storjshare.io/s/jufla747mctifdglkggg2jqhvddq/pds-witchcraft-systems/backups/)
 
@@ -28,7 +28,7 @@ In case of anything significant affecting the PDS, we will do our best to tell y
 2. Go to [bsky.app](https://bsky.app) and select "Create Account".
 3. Click on "You are creating an account on Bluesky Social", and set a custom provider URL to `https://pds.witchcraft.systems`.
 4. Enter your invite code and the rest of the required information.
-5. Congratulations! You now have a PDS account.
+5. Congratulations! You now have a PDS account. You may want to subscribe to [@announcements.pds.witchcraft.systems](https://deer.social/profile/announcements.pds.witchcraft.systems) to get updates about the PDS.
 6. **Recommended!** Set up a custom did:plc key for your account. You can use [boat](https://boat.kelinci.net/) to both generate a key pair (store it somewhere safe!) and to add the public key to your account. This will allow you to point your DID to a different PDS without using our PDS's key.
 
 ## How to leave if we ever go down
