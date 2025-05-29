@@ -6,7 +6,7 @@
 - [Uptime status page](https://stats.uptimerobot.com/7Xeatuzb2h)
 - [Witchcraft Systems main account](https://deer.social/profile/did:web:witchcraft.systems)
 - [Witchcraft Systems infrastructure issues account](https://deer.social/profile/did:plc:ebwglxznjtpxr4ybttbpbwjw) (hosted on a Bluesky PBC PDS, used if our infrastructure is down)
-- [Witchcraft Systems PDS announcements account](https://pds.witchcraft.systems/profile/) (used for reporting issues with the PDS)
+- [Witchcraft Systems PDS announcements account](https://pds.witchcraft.systems/profile/) (used for stuff that's only relevant to those who use our PDS)
 - [This repository](https://git.witchcraft.systems/scientific-witchery/pds-starter-pack) and the [github mirror](https://github.com/witchcraft-systems/pds-starter-pack)
 - [PDS nightly backups](https://link.storjshare.io/s/jufla747mctifdglkggg2jqhvddq/pds-witchcraft-systems/backups/)
 
