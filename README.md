@@ -31,6 +31,14 @@ In case of anything significant affecting the PDS, we will do our best to tell y
 5. Congratulations! You now have a PDS account. You may want to subscribe to [@announcements.pds.witchcraft.systems](https://deer.social/profile/announcements.pds.witchcraft.systems) to get updates about the PDS.
 6. **Recommended!** Set up a custom did:plc key for your account. You can use [boat](https://boat.kelinci.net/) to both generate a key pair (store it somewhere safe!) and to add the public key to your account. This will allow you to point your DID to a different PDS without using our PDS's key.
 
+## How to move an existing account to our PDS
+
+0. Remember that migrating from the default Bluesky PDS to a custom PDS is a one-way operation.
+1. Get an invite code.
+2. Follow [this guide](https://whtwnd.com/bnewbold.net/entries/Migrating%20PDS%20Account%20with%20%60goat%60) to migrate using the `goat` tool. Otherwise, you can use the [ATP INTERNECTIONAL AIRPORT](https://atpairport.com/) for a more user-friendly experience, but it is currently in alpha and may not work as expected. Keep in mind that those tools are made for did:plc; If you have a did:web - good luck, you figured it out when you created the account, so surely you'll figure it out now too :^)
+3. Done!
+4. **Recommended if using did:plc!** Set up a custom did:plc key for your account. You can use [boat](https://boat.kelinci.net/) to both generate a key pair (store it somewhere safe!) and to add the public key to your account. This will allow you to point your DID to a different PDS without using our PDS's key.
+
 ## How to leave if we ever go down
 
 We have no plans of shutting down the PDS, but for your benefit, here are the rough steps to migrate your data to another PDS if we ever do:
