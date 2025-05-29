@@ -29,7 +29,7 @@ In case of anything significant affecting the PDS, we will do our best to tell y
 3. Click on "You are creating an account on Bluesky Social", and set a custom provider URL to `https://pds.witchcraft.systems`.
 4. Enter your invite code and the rest of the required information.
 5. Congratulations! You now have a PDS account.
-6. *Recommended* Set up a custom did:plc key for your account. You can use [boat](https://boat.kelinci.net/) to both generate a key pair (store it somewhere safe!) and to add the public key to your account. This will allow you to point your DID to a different PDS without using our PDS's key.
+6. **Recommended!** Set up a custom did:plc key for your account. You can use [boat](https://boat.kelinci.net/) to both generate a key pair (store it somewhere safe!) and to add the public key to your account. This will allow you to point your DID to a different PDS without using our PDS's key.
 
 ## How to leave if we ever go down
 
