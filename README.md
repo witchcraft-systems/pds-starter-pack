@@ -5,18 +5,31 @@
 - [PDS itself](https://pds.witchcraft.systems)
 - [Uptime status page](https://stats.uptimerobot.com/7Xeatuzb2h)
 - [Witchcraft Systems main account](https://deer.social/profile/did:web:witchcraft.systems)
-- [Witchcraft Systems infrastructure issues account](https://deer.social/profile/did:plc:ebwglxznjtpxr4ybttbpbwjw) (hosted on a Bluesky PBC PDS, used if our infrastructure is down)
-- [Witchcraft Systems PDS announcements account](https://pds.witchcraft.systems/profile/) (used for stuff that's only relevant to those who use our PDS)
+- [Infrastructure issues account](https://deer.social/profile/did:plc:ebwglxznjtpxr4ybttbpbwjw) (hosted on a Bluesky PBC PDS, used if our infrastructure is down)
+- [PDS announcements account](https://pds.witchcraft.systems/profile/) (used for stuff that's only relevant to those who use our PDS)
 - [This repository](https://git.witchcraft.systems/scientific-witchery/pds-starter-pack) and the [github mirror](https://github.com/witchcraft-systems/pds-starter-pack)
 - [PDS nightly backups](https://link.storjshare.io/s/jufla747mctifdglkggg2jqhvddq/pds-witchcraft-systems/backups/)
 
+## About the PDS
+
+This is a Personal Data Sanctum (PDS) hosted by Witchcraft Systems, physically located in Tokyo, Japan. Signups require an invite code, which can be obtained by sending a message to us on our [main account](https://deer.social/profile/did:web:witchcraft.systems).
+
+While you can move your main account to our PDS, we do not recommend doing so if you don't have an alternative option just in case (i.e. you use a Bluesky PBC PDS, since moving your main account to a custom PDS makes it impossible to move it back to a PDS hosted by the Bluesky PBC).
+
+The PDS is operated on a best-effort basis, meaning we will try to keep it up and running, but we cannot guarantee 100% uptime. You can check our uptime so far on our [status page](https://stats.uptimerobot.com/7Xeatuzb2h) and decide if this is acceptable for you.
+
+The PDS itself is backed up nightly to multiple locations, with the backups being regularly verified to ensure data integrity. All the public data stored on the PDS is also available in an [S3 bucket](https://link.storjshare.io/s/jufla747mctifdglkggg2jqhvddq/pds-witchcraft-systems/backups/), which will continue to be available even if the PDS itself goes down, and can be used to migrate your account to another PDS if needed.
+
+In case of anything significant affecting the PDS, we will do our best to tell you about it on our [PDS announcements account](https://pds.witchcraft.systems/profile/), in advance where possible.
+
 ## How to sign up
 
-1. Get an invite code from one of the designated witches.
+1. Get an invite code.
 2. Go to [bsky.app](https://bsky.app) and select "Create Account".
 3. Click on "You are creating an account on Bluesky Social", and set a custom provider URL to `https://pds.witchcraft.systems`.
 4. Enter your invite code and the rest of the required information.
 5. Congratulations! You now have a PDS account.
+6. *Recommended* Set up a custom did:plc key for your account. You can use [boat](https://boat.kelinci.net/) to both generate a key pair (store it somewhere safe!) and to add the public key to your account. This will allow you to point your DID to a different PDS without using our PDS's key.
 
 ## How to leave if we ever go down
 
