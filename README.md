@@ -20,7 +20,7 @@ The PDS is operated on a best-effort basis, meaning we will try to keep it up an
 
 The PDS itself is backed up nightly to multiple locations, with the backups being regularly verified to ensure data integrity. All the public data stored on the PDS is also available in an [S3 bucket](https://link.storjshare.io/s/jufla747mctifdglkggg2jqhvddq/pds-witchcraft-systems/backups/), which will continue to be available even if the PDS itself goes down, and can be used to migrate your account to another PDS if needed.
 
-In case of anything significant affecting the PDS, we will do our best to tell you about it on our [PDS announcements account](https://pds.witchcraft.systems/profile/), in advance where possible.
+In case of anything significant affecting the PDS, we will do our best to tell you about it on our [PDS announcements account](https://deer.social/profile/announcements.pds.witchcraft.systems), in advance where possible.
 
 ## How to sign up
 
