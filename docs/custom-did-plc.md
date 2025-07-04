@@ -12,7 +12,7 @@ This guide will help you modify your did:plc so you can point it to a different 
     ![Image of using boat.kelinci.net to generate secret keys](/images/secret-keys.png)
 
     </details>
-2. Store these keys in a safe location! (and don't share your private keys with anyone!)
+2. Store these keys in a safe location, for example - in your password manager. (and don't share your private keys with anyone!)
 
 ## Add the new keys to your did:plc
 
@@ -34,7 +34,7 @@ This guide will help you modify your did:plc so you can point it to a different 
 
     </details>
 
-4. Add your new generated public key (did:key) to the top of the `rotationKeys` array (with a following comma)
+4. Add your new generated public key (did:key) to the top of the `rotationKeys` array (with a following comma). It is important to add it at the top, since PLC keys aren't all equal, their position in the array defines their priority. If you add it at the bottom, it will not be able to override operations submitted by the old key (which is controlled by your PDS).
 
     <details>
     <summary>See example payload</summary>
