@@ -9,7 +9,7 @@ This guide will help you modify your did:plc so you can point it to a different 
     <details>
     <summary>📸 Example image</summary>
 
-    ![Image of using boat.kelinci.net to generate secret keys](/images/secret-keys.png)
+    ![Image of using boat.kelinci.net to generate secret keys](../images/secret-keys.png)
 
     </details>
 2. Store these keys in a safe location, for example - in your password manager. (and don't share your private keys with anyone!)
@@ -22,7 +22,7 @@ This guide will help you modify your did:plc so you can point it to a different 
     <details>
     <summary>📸 Image</summary>
 
-    ![Image of logging into boat.kelinci.net's PLC applicator](/images/apply_plc_login.png)
+    ![Image of logging into boat.kelinci.net's PLC applicator](../images/apply_plc_login.png)
 
     </details>
 3. Select "Append an operation"
@@ -30,7 +30,7 @@ This guide will help you modify your did:plc so you can point it to a different 
     <details>
     <summary>📸 Image</summary>
 
-    ![Image of selecting "Append an operation" into boat.kelinci.net's PLC applicator](/images/apply_plc_append.png)
+    ![Image of selecting "Append an operation" into boat.kelinci.net's PLC applicator](../images/apply_plc_append.png)
 
     </details>
 
@@ -65,7 +65,7 @@ This guide will help you modify your did:plc so you can point it to a different 
     <details>
     <summary>📸 Image</summary>
 
-    ![Image of payload data in boat.kelinci.net's PLC applicator](/images/apply_plc_payload.png)
+    ![Image of payload data in boat.kelinci.net's PLC applicator](../images/apply_plc_payload.png)
 
     </details>
 
@@ -76,7 +76,7 @@ This guide will help you modify your did:plc so you can point it to a different 
     <details>
     <summary>📸 Image</summary>
 
-    ![Image of entering a verification code in boat.kelinci.net's PLC applicator](/images/apply_plc_confirmation.png)
+    ![Image of entering a verification code in boat.kelinci.net's PLC applicator](../images/apply_plc_confirmation.png)
 
     </details>
 
