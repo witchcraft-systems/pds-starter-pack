@@ -25,7 +25,7 @@ In case of anything significant affecting the PDS, we will do our best to tell y
 ## How to sign up
 
 1. Get an invite code.
-2. Go to [bsky.app](https://bsky.app) or [deer.social](https://https://deer.social/) and select "Create Account".
+2. Go to [bsky.app](https://bsky.app) or [deer.social](https://deer.social/) and select "Create Account".
 3. Click on "You are creating an account on Bluesky Social", and set a custom provider URL to `https://pds.witchcraft.systems`.
 4. Enter your invite code and the rest of the required information.
 5. Congratulations! You now have a PDS account. You may want to subscribe to [@announcements.pds.witchcraft.systems](https://deer.social/profile/announcements.pds.witchcraft.systems) to get updates about the PDS.
