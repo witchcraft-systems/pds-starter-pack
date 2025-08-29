@@ -36,6 +36,8 @@ In case of anything significant affecting the PDS, we will do our best to tell y
 0. Remember that migrating from the default Bluesky PDS to a custom PDS is a one-way operation.
 1. Get an invite code.
 2. Follow [this guide](https://whtwnd.com/bnewbold.net/entries/Migrating%20PDS%20Account%20with%20%60goat%60) to migrate using the `goat` tool. Otherwise, you can use the [ATP INTERNECTIONAL AIRPORT](https://atpairport.com/) for a more user-friendly experience, but it is currently in alpha and may not work as expected. Keep in mind that those tools are made for did:plc; If you have a did:web - good luck, you figured it out when you created the account, so surely you'll figure it out now too :^)
+>[!TIP]
+> If you get an error when using the automatic Goat migration or ATP methods, please check this [doc](docs/plcfix.md)
 3. Done!
 4. **Recommended if using did:plc!** [Set up a custom did:plc key](docs/custom-did-plc.md) for your account.
 
