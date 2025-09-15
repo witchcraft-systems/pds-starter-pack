@@ -45,7 +45,7 @@ First, install [Goat](https://github.com/bluesky-social/goat) (If you were migra
 
 	```
 	# old PDS
-	goat account plc sign --token $PLCTOKEN  ./plc_unsigned.json > plc_signed.json
+	goat account plc sign --token $PLCTOKEN  ./plc_recommended.json > plc_signed.json
 	```
 
 5. Submit the PLC operation from the new PDS
