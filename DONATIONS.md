@@ -10,4 +10,4 @@ If you would like to support us, you can do so via:
 - LTC: `ltc1qkvmvwx8d0sz4uqcytnvaefc5nlhrn72hyjwu3w`
 - XNO: `nano_37izmhfx3zwgbdh9knjog7btpgbcanx4fugydh3e8ui9ziyimbe49xu1x5i1`
 
-International bank transfers are currently complicated for us, but if you have a Japanese bank account, you can contact us for details at  complicated for us, but if you have a Japanese bank account, you can [contact us](mailto:donations@witchcraft.systems) for details.
+International bank transfers are currently complicated for us, but if you have a Japanese bank account, you can [contact us](mailto:donations@witchcraft.systems) for details.
