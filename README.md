@@ -34,7 +34,10 @@ In case of anything significant affecting the PDS, we will do our best to tell y
 ## How to move an existing account to our PDS
 
 1. Get an invite code.
-2. Follow [this guide](https://whtwnd.com/bnewbold.net/entries/Migrating%20PDS%20Account%20with%20%60goat%60) to migrate using the `goat` tool. Otherwise, you can use [PDSMoover](https://pdsmoover.com) or the [ATP INTERNECTIONAL AIRPORT](https://atpairport.com/)(alpha) for a more user-friendly experience. Keep in mind that those tools are made for did:plc; If you have a did:web - good luck, you figured it out when you created the account, so surely you'll figure it out now too :^)
+2. You can use [PDSMoover](https://pdsmoover.com) (recommended) or the [ATP INTERNECTIONAL AIRPORT](https://atpairport.com/)(alpha) for a more user-friendly experience. If you're comfortable with a terminal - you can also follow [this guide](https://whtwnd.com/bnewbold.net/entries/Migrating%20PDS%20Account%20with%20%60goat%60) to migrate using the `goat` tool.
+
+Keep in mind that those tools are made for did:plc; If you have a did:web - good luck, you figured it out when you created the account, so surely you'll figure it out now too :^) (if you don't know which one you have - don't worry about it, you probably have a did:plc).
+
 >[!TIP]
 > If you get an error when using the automatic Goat migration or ATP methods, please check this [doc](docs/plcfix.md)
 3. Done!
