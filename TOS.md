@@ -30,6 +30,8 @@ Keep in mind that basically anything you post publicly on the network is, well, 
 
 We reserve the right to suspend or terminate accounts at any time at our discretion, with or without a warning. No, we don't plan to start randomly taking down people's repos for no reason; this is needed to protect us from situations that we can't predict, like legal issues or security threats.
 
+Also, due to how ATProto works, your account can still be moderated on other network levels: the appview, the relay, and the client. We don't have any control over those, so if you get banned or suspended on those levels, that's out of our hands.
+
 ## Enforcement
 
 - In most cases, if there's an issue, we'll give a warning first and work to resolve it, only suspending the account if that doesn't work.
